@@ -10,6 +10,7 @@ Focused on LLM infrastructure, RAG pipelines, and observability-driven AI applic
 💼 [LinkedIn](https://linkedin.com/in/nikhilmadhunala) | [GitHub](https://github.com/nikhilmadhunala)
 
 ---
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Nikhil%20Madhunala%20-%20AI%20Engineer%20Portfolio&fontSize=28&fontAlignY=35)
 
 ## 🚀 Projects
 
