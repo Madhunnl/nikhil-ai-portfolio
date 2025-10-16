@@ -13,10 +13,17 @@ Focused on LLM infrastructure, RAG pipelines, and observability-driven AI applic
 
 ## 🚀 Projects
 
-### 🧩 [AI Text Summarizer](https://share.streamlit.io/<your_streamlit_app_url>)
-- Built using Streamlit, OpenAI API, and dotenv.
-- Summarizes text in multiple tones.
-- [GitHub Repo](https://github.com/nikhilmadhunala/ai_summarizer)
+### 🧩 [AI Text Summarizer](https://madhunnl-ai-summarizer.streamlit.app)
+**Repo:** [github.com/Madhunnl/ai_summarizer](https://github.com/Madhunnl/ai_summarizer)  
+Built using **Streamlit**, **OpenAI API**, and **python-dotenv**.  
+
+- Summarizes long text in different tones (Neutral, Casual, Professional).  
+- Implements configurable sentence length and dynamic prompt templates.  
+- Deployed on **Streamlit Cloud** for live demos.  
+
+🧠 *Tech Stack:* Python · Streamlit · OpenAI API · Environment Variables (.env)  
+📈 *Skills demonstrated:* Prompt design, API integration, UI with Streamlit, cloud deployment.
+
 
 ### 🤖 Multi-Agent Research Bot *(coming soon – Week 6)*
 - LangGraph + OpenAI functions + concurrent workflows.
