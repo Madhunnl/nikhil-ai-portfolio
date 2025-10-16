@@ -6,7 +6,7 @@ Backend & distributed systems engineer transitioning into applied AI and agentic
 Focused on LLM infrastructure, RAG pipelines, and observability-driven AI applications.
 
 📍 Based in: New York  
-📧 Contact: nikhilmadhunala@gmail.com  
+📧 Contact: nikhilmadhunala1@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/nikhilmadhunala) | [GitHub](https://github.com/nikhilmadhunala)
 
 ---
