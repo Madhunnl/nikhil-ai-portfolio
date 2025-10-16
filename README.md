@@ -1,1 +1,54 @@
-# nikhil-ai-portfolio
+
+# 🧠 Nikhil Madhunala – AI Systems Engineer Portfolio
+
+## 👋 About Me
+Backend & distributed systems engineer transitioning into applied AI and agentic systems.  
+Focused on LLM infrastructure, RAG pipelines, and observability-driven AI applications.
+
+📍 Based in: New York  
+📧 Contact: nikhilmadhunala@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/nikhilmadhunala) | [GitHub](https://github.com/nikhilmadhunala)
+
+---
+
+## 🚀 Projects
+
+### 🧩 [AI Text Summarizer](https://share.streamlit.io/<your_streamlit_app_url>)
+- Built using Streamlit, OpenAI API, and dotenv.
+- Summarizes text in multiple tones.
+- [GitHub Repo](https://github.com/nikhilmadhunala/ai_summarizer)
+
+### 🤖 Multi-Agent Research Bot *(coming soon – Week 6)*
+- LangGraph + OpenAI functions + concurrent workflows.
+- Adds memory and async coordination.
+
+### 📊 AI Observability Dashboard *(coming soon – Week 9)*
+- Tracks prompt latency, model cost, and accuracy drift.
+
+---
+
+## 🧱 Tech Stack
+- **Languages:** Python, Go, SQL  
+- **AI Tools:** OpenAI API, LangChain, Hugging Face, Streamlit  
+- **Infra:** AWS, Docker, Kubernetes, Grafana  
+- **Monitoring:** OpenTelemetry, LangSmith, MLflow  
+
+---
+
+## 🧩 Learning Roadmap
+- Week 1–2: Prompt Engineering + LLM APIs ✅  
+- Week 3–5: RAG + Multi-Agent Systems  
+- Week 6–9: MLOps + Observability  
+- Week 10–12: Optimization + Portfolio Polish
+
+---
+
+## 🌐 Live Apps
+| Project | Link |
+|----------|------|
+| Summarizer | [Streamlit Demo](https://share.streamlit.io/<your_app>) |
+| (Next projects) | Coming soon |
+
+---
+
+✨ *Last updated: October 2025*
